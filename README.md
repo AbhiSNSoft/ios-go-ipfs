@@ -11,7 +11,7 @@
 
 ###Notes:
 
-* See Internet Permanent Filesystem: [ipfs.io](http://ipfs.io)
+* See InterPlanetary File System: [ipfs.io](http://ipfs.io)
 * [Depends on the toolchain from the goios project](https://bitbucket.org/minux/goios)
 * Use [homebrew](http://brew.sh/) to install go on your OSX development machine ($ brew install go)
 * Currently depends on go 1.4.2 for cross-compiling the goios tools
